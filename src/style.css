@@ -5,7 +5,9 @@
     /*font-weight: 600;*/
     /*font-style: normal;*/
 /*}*/
-
+body{
+    background-color: red;
+}
 .hello{
     color: red;
     font-family: 'Myfont';

@@ -1,3 +1,3 @@
 export default function prinMe() {
-    console.log('I get called from print.js!');
+    console.log('Updating print.js...12345')
 }
